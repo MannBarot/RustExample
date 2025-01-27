@@ -1,0 +1,7 @@
+{
+    "name": "[Your dev container name] (Example: Rust Dev Container)",
+    "image": "mcr.microsoft.com/vscode/devcontainers/rust",
+    "customizations": {
+      "extensions": ["rust-lang.rust-analyzer"]
+    }
+    }
